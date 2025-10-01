@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computer Systems student at UESPI – Parnaíba <br>
   📊 Exploring Data Science with Python & Machine Learning <br>
-  💻 Full Stack Developer focused on modern and scalable solutions
+  💻 Back End Developer focused on modern and scalable solutions
 </p>
 
 <div align="center">
@@ -57,7 +57,7 @@
 ---
 
 ✨ About Me <br> 
-🚀 Back End Dev focused on TypeScript and NestJS <br> 
+🚀 Back End Developer focused on TypeScript and NestJS <br> 
 📊 Currently diving into Data Science & Machine Learning <br> 
 🛠️ Passionate about building scalable and practical solutions <br> 
 🤝 Always open to collaborations and new challenges 
