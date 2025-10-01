@@ -56,11 +56,11 @@
 
 ---
 
-✨ About Me
-🚀 Back End Dev focused on TypeScript and NestJS
-📊 Currently diving into Data Science & Machine Learning
-🛠️ Passionate about building scalable and practical solutions
-🤝 Always open to collaborations and new challenges
+✨ About Me <br> 
+🚀 Back End Dev focused on TypeScript and NestJS <br> 
+📊 Currently diving into Data Science & Machine Learning <br> 
+🛠️ Passionate about building scalable and practical solutions <br> 
+🤝 Always open to collaborations and new challenges 
 
 ---
 
