@@ -69,9 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oAnjophb/oAnjophb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   🚀 Thanks for stopping by! See you around!
 </p>
