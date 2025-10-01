@@ -23,6 +23,7 @@
 !NestJs
 !TypeScript
 !Python
+!Prisma
 !PostgreSQL
 !Docker
 
