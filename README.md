@@ -36,10 +36,10 @@
 
 ---
 
-📈 Current Roadmap
-🔥 Improving back-end with Node.js and clean architecture
-📊 Applying Machine Learning to real-world projects
-🐧 Deepening knowledge in DevOps
+📈 Current Roadmap <br> 
+🔥 Improving back-end with Node.js and clean architecture <br> 
+📊 Applying Machine Learning to real-world projects <br> 
+🐧 Deepening knowledge in DevOps <br> 
 
 ---
 
